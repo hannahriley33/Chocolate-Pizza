@@ -65,28 +65,24 @@ header {
     list-style: none;
     position: absolute;
     line-height: 30px;
-    top: 740px;
     font-family: 'Comic Sans MS', cursive, sans-serif;
     color: rgba(97, 60, 60, 0.8);
 
 }
 
 .text {
-
+    background-image: url("./assests/list-bg.png");
+    width: 850px;
+    height: 250px; 
+    background-repeat: no-repeat;
 }
 
-.recipeBox {
-    position: absolute;
-    text-align: center;
-}
 .rightSide {
    
     left: 500px;
     
 }
-.leftSide {
 
-}
 #postedOn {
     position: relative;
     top: 45px;
